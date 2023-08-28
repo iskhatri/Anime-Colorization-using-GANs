@@ -31,3 +31,10 @@ Getting Started
 
 4. Run the Anime_colorization.ipynb to train the cGAN model. Use the trained model to perform colorization on new images using the colorize.py script.
 Results.After training, the model is capable of generating colorized versions of anime images. The generated images are assessed based on their visual quality and similarity to real color images.
+
+
+Reference :
+
+Dataset taken from Kaggle:
+https://www.kaggle.com/datasets/ktaebum/anime-sketch-colorization-pair
+
